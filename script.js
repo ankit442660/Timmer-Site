@@ -35,7 +35,7 @@ else {
    
         
 
-        
+   location.reload();     
        
     
     
